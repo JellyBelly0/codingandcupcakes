@@ -1,0 +1,10 @@
+
+body {
+    background-color: lightblue;
+}
+.header{
+	overflow: auto;
+	display: block;
+	clear:both;
+	background: #ff80b3;
+}

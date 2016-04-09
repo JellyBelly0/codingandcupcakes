@@ -1,6 +1,6 @@
 html, body {
 	background: #f5c9c9;
-	font-family: 'Lato', sans-serif;
+	<link href='https://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
 	color: #6C6B6B;
 	margin: 0px;
 	padding: 0px;
@@ -68,8 +68,8 @@ ul.menu li  a {
 }
 
 ul.menu li  a.selected {
-	background: #E0C128;
-	border-bottom: solid 5px #FF005B;
+	background: #8c8c8c;
+	border-bottom: solid 5px #8c8c8c;
 }
 
 
